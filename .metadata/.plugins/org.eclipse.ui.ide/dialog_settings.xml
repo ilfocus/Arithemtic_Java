@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/qiwang/CodeTest/Arithemtic/code/第二季"/>
 		<item value="/Users/qiwang/CodeTest/Arithemtic/code"/>
 	</list>
+	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
+		<item value="/Users/qiwang/CodeTest/Arithemtic/code" key="OUTSIDE_LOCATION"/>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
 </section>
